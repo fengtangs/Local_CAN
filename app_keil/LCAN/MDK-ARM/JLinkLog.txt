@@ -1,0 +1,96 @@
+T1060 000:224.675   SEGGER J-Link V7.20 Log File
+T1060 000:225.155   DLL Compiled: Apr 28 2021 17:34:08
+T1060 000:225.166   Logging started @ 2021-06-11 07:11
+T1060 000:225.175 - 225.179ms
+T1060 000:225.192 JLINK_SetWarnOutHandler(...)
+T1060 000:225.205 - 0.016ms
+T1060 000:225.216 JLINK_OpenEx(...)
+T1060 000:228.562   Firmware: J-Link V11 compiled Apr 27 2021 16:36:21
+T1060 000:228.855   Firmware: J-Link V11 compiled Apr 27 2021 16:36:21
+T1060 000:229.064   Decompressing FW timestamp took 171 us
+T1060 000:231.487   Hardware: V11.00
+T1060 000:231.515   S/N: 50120677
+T1060 000:231.529   OEM: SEGGER
+T1060 000:231.542   Feature(s): GDB, JFlash, FlashDL, RDI, FlashBP
+T1060 000:233.767   TELNET listener socket opened on port 19021
+T1060 000:233.988   WEBSRV Starting webserver
+T1060 000:234.344   WEBSRV Webserver running on local port 19080
+T1060 000:234.369 - 9.158ms returns "O.K."
+T1060 000:234.413 JLINK_SetErrorOutHandler(...)
+T1060 000:234.424 - 0.015ms
+T1060 000:234.732 JLINK_ExecCommand("ProjectFile = "F:\stduy\Graduation project design\app_keil\LCAN\MDK-ARM\JLinkSettings.ini"", ...). 
+T1060 000:252.291   Ref file found at: E:\keil\ARM\Segger\JLinkDevices.ref
+T1060 000:252.434   XML referenced by ref file: C:\Program Files (x86)\SEGGER\JLink\JLinkDevices.xml
+T1060 000:253.340   C:\Program Files (x86)\SEGGER\JLink\JLinkDevices.xml evaluated successfully.
+T1060 000:309.479 - 74.816ms returns 0x00
+T1060 000:309.872 JLINK_ExecCommand("Device = STM32F103T8", ...). 
+T1060 000:310.262   Device "STM32F103T8" selected.
+T1060 000:311.601 - 1.690ms returns 0x00
+T1060 000:311.640 JLINK_GetHardwareVersion()
+T1060 000:311.649 - 0.014ms returns 110000
+T1060 000:311.678 JLINK_GetDLLVersion()
+T1060 000:311.687 - 0.014ms returns 72000
+T1060 000:311.699 JLINK_GetOEMString(...)
+T1060 000:311.711 JLINK_GetFirmwareString(...)
+T1060 000:311.720 - 0.013ms
+T1060 000:311.738 JLINK_GetDLLVersion()
+T1060 000:311.747 - 0.013ms returns 72000
+T1060 000:311.759 JLINK_GetCompileDateTime()
+T1060 000:311.771 - 0.016ms
+T1060 000:311.789 JLINK_GetFirmwareString(...)
+T1060 000:311.802 - 0.017ms
+T1060 000:311.814 JLINK_GetHardwareVersion()
+T1060 000:311.823 - 0.013ms returns 110000
+T1060 000:311.836 JLINK_GetSN()
+T1060 000:311.845 - 0.013ms returns 50120677
+T1060 000:311.858 JLINK_GetOEMString(...)
+T1060 000:311.875 JLINK_TIF_Select(JLINKARM_TIF_JTAG)
+T1060 000:313.215 - 1.351ms returns 0x00
+T1060 000:313.236 JLINK_HasError()
+T1060 000:313.258 JLINK_SetSpeed(5000)
+T1060 000:313.365 - 0.114ms
+T1060 000:313.717 JLINK_HasError()
+T1060 000:313.731 JLINK_SetResetType(JLINKARM_RESET_TYPE_NORMAL)
+T1060 000:313.738 - 0.010ms returns JLINKARM_RESET_TYPE_NORMAL
+T1060 000:313.747 JLINK_Reset()
+T1060 000:313.909   InitTarget() start
+T1060 000:313.927    J-Link Script File: Executing InitTarget()
+T1060 000:815.100   Can not attach to CPU. Trying connect under reset.
+T1060 001:366.678   Connecting to CPU via connect under reset failed.
+T1060 001:417.423   InitTarget() end
+T1060 001:479.283   InitTarget() start
+T1060 001:479.311    J-Link Script File: Executing InitTarget()
+T1060 001:980.040   Can not attach to CPU. Trying connect under reset.
+T1060 002:532.668   Connecting to CPU via connect under reset failed.
+T1060 002:583.296   InitTarget() end
+T1060 002:583.325 - 2269.583ms
+T1060 002:583.349 JLINK_GetIdData(pIdData)
+T1060 002:583.533   InitTarget() start
+T1060 002:583.555    J-Link Script File: Executing InitTarget()
+T1060 003:085.040   Can not attach to CPU. Trying connect under reset.
+T1060 003:636.665   Connecting to CPU via connect under reset failed.
+T1060 003:687.408   InitTarget() end
+T1060 003:749.211   InitTarget() start
+T1060 003:749.237    J-Link Script File: Executing InitTarget()
+T1060 004:249.926   Can not attach to CPU. Trying connect under reset.
+T1060 004:802.435   Connecting to CPU via connect under reset failed.
+T1060 004:853.220   InitTarget() end
+T1060 004:853.247 - 2269.902ms
+T1060 004:853.266 JLINK_GetIdData(pIdData)
+T1060 004:853.428   InitTarget() start
+T1060 004:853.443    J-Link Script File: Executing InitTarget()
+T1060 005:353.910   Can not attach to CPU. Trying connect under reset.
+T1060 005:906.407   Connecting to CPU via connect under reset failed.
+T1060 005:957.309   InitTarget() end
+T1060 006:019.146   InitTarget() start
+T1060 006:019.172    J-Link Script File: Executing InitTarget()
+T1060 006:519.796   Can not attach to CPU. Trying connect under reset.
+T1060 007:072.410   Connecting to CPU via connect under reset failed.
+T1060 007:123.190   InitTarget() end
+T1060 007:123.216 - 2269.953ms
+T1060 007:128.240 JLINK_GetFirmwareString(...)
+T1060 007:128.264 - 0.029ms
+T1060 033:256.782 JLINK_Close()
+T1060 033:277.664 - 20.913ms
+T1060 033:277.702   
+T1060 033:277.714   Closed

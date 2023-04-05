@@ -1,0 +1,26 @@
+C:\Users\nsf\Downloads\ControlCAN_demo\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\nsf\Downloads\ControlCAN_demo\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\nsf\Downloads\ControlCAN_demo\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\nsf\Downloads\ControlCAN_demo\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\nsf\Downloads\ControlCAN_demo\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\nsf\Downloads\ControlCAN_demo\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\nsf\Downloads\ControlCAN_demo\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\nsf\Downloads\ControlCAN_demo\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\nsf\Desktop\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\nsf\Desktop\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\nsf\Desktop\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\nsf\Desktop\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\nsf\Desktop\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\nsf\Desktop\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\nsf\Desktop\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\nsf\Desktop\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\nsf\Desktop\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+F:\stduy\Graduation project design\上位机测试\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\stduy\Graduation project design\上位机测试\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\stduy\Graduation project design\上位机测试\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\stduy\Graduation project design\上位机测试\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csprojResolveAssemblyReference.cache
+F:\stduy\Graduation project design\上位机测试\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\stduy\Graduation project design\上位机测试\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+F:\stduy\Graduation project design\上位机测试\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+F:\stduy\Graduation project design\上位机测试\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\stduy\Graduation project design\上位机测试\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb

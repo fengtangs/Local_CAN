@@ -1,0 +1,28 @@
+--cpu Cortex-M3
+"square-amp\startup_stm32f103xb.o"
+"square-amp\ad7172-2.o"
+"square-amp\dataout.o"
+"square-amp\n2000.o"
+"square-amp\main.o"
+"square-amp\stm32f1xx_it.o"
+"square-amp\stm32f1xx_hal_msp.o"
+"square-amp\stm32f1xx_hal_gpio_ex.o"
+"square-amp\stm32f1xx_hal_spi.o"
+"square-amp\stm32f1xx_hal.o"
+"square-amp\stm32f1xx_hal_rcc.o"
+"square-amp\stm32f1xx_hal_rcc_ex.o"
+"square-amp\stm32f1xx_hal_gpio.o"
+"square-amp\stm32f1xx_hal_dma.o"
+"square-amp\stm32f1xx_hal_cortex.o"
+"square-amp\stm32f1xx_hal_pwr.o"
+"square-amp\stm32f1xx_hal_flash.o"
+"square-amp\stm32f1xx_hal_flash_ex.o"
+"square-amp\stm32f1xx_hal_exti.o"
+"square-amp\stm32f1xx_hal_tim.o"
+"square-amp\stm32f1xx_hal_tim_ex.o"
+"square-amp\stm32f1xx_hal_uart.o"
+"square-amp\system_stm32f1xx.o"
+--library_type=microlib --strict --scatter "Square-Amp\Square-Amp.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Square-Amp.map" -o Square-Amp\Square-Amp.axf
